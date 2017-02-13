@@ -68,6 +68,12 @@ let add2 = add 2
 // of 
 let startWithDash = concat "- "
 
+// probeer nu een aantal HOF te maken. Probeer ook met een idee te komen voor een HOF die een functie als argument gebruikt
+
+
+
+// Als je feedback op je werk wilt of vragen hebt stuur mij dan direct een bericht of gebruik het isue systeem. Als je voobeeld code hebt waar om het gaat dan is een link altijd erg praktische.
+
 
 
 
