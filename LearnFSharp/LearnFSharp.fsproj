@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
     <None Include="Part1.fsx" />
+    <None Include="Part2A.fsx" />
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
